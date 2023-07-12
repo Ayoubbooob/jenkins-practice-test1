@@ -12,7 +12,6 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''
-                
                 '''
             }
         }
@@ -20,7 +19,6 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''
-                
                 '''
             }
         }
